@@ -1,13 +1,7 @@
 <div align="center">
 이미지 표시
 ⚙️ Technologies and Skills
-<a href="https://wakatime.com/@yourusername" target="_blank">
-    <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&layout=compact&theme=radical&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&layout=compact&hide_border=true" />
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&layout=compact&hide_border=true" alt="Wakatime Coding Time" />
-    </picture>
-</a>
+
 💡 Main Languages & Skills
 이미지 표시
 이미지 표시
