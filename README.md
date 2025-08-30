@@ -1,5 +1,4 @@
 <div align="center">
-이미지 표시
 ⚙️ Technologies and Skills
 
 💡 Main Languages & Skills
