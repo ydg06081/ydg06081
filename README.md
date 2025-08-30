@@ -3,16 +3,13 @@
 ⚙️ Technologies and Skills
 
 💡 Main Languages & Skills
-이미지 표시
-이미지 표시
-이미지 표시
-이미지 표시
+
 🖋️ All Languages
-이미지 표시
+
 🛠️ Other Skills & Tools
-이미지 표시
+
 🚀 Currently Learning
-이미지 표시
+
 🪧 GitHub Stats
 <div align="center">
     <picture>
