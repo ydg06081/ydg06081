@@ -1,13 +1,13 @@
 <div align="center">
-⚙️ Technologies and Skills
+## ⚙️ Technologies and Skills
 
-💡 Main Languages & Skills
+### 💡 Main Languages & Skills
 
-🖋️ All Languages
+### 🖋️ All Languages
 
-🛠️ Other Skills & Tools
+###🛠️ Other Skills & Tools
 
-🚀 Currently Learning
+### 🚀 Currently Learning
 
 🪧 GitHub Stats
 <div align="center">
@@ -30,104 +30,32 @@
 Profile Views
 이미지 표시
 </div>
-🏢 Work Experience
-[Company Name] Software Engineer
+## 🏢 Work Experience
 
-2024.03. ~ Present
-주요 업무: 웹 애플리케이션 개발, API 설계 및 구현
-기술 스택: React, Node.js, PostgreSQL, AWS
+### [KNU CVMIP Lab] Intern
 
-[Previous Company] Junior Developer
+- 2024.07. ~ Present
 
-2022.06. ~ 2024.02.
-주요 업무: 프론트엔드 개발, UI/UX 개선
-기술 스택: Vue.js, JavaScript, CSS
+### [FLAME-ARK] 솔루션 개발 실증: 병원 특화 연합학습 기반 멀티모달 파운데이션 모델 구축 및 AI 솔루션 개발
 
-🎓 Education
-[부트캠프/교육과정명]
+- 2025.03. ~ Present
 
-2023.03. ~ 2023.09.
-Full Stack Web Development
+### [BOIM] Pill Classification & Pill Detection & Pill search 
 
-[대학교명] [학과명]
+- 2025.03. ~ Present
 
-2018.03. ~ 2022.02.
-학위: 공학사
+## 🎓 Education
 
-🏆 Awards & Certifications
-해커톤 대상
+### 강원대학교 컴퓨터공학과
 
-주최: [주최기관]
-내역: [프로젝트명] - 1등
-일시: 2024.03.15
+- 2022.03. ~ Present
 
-자격증명
 
-정보처리기사 (2023.11.)
-TOEIC 900점 (2023.08.)
-AWS Solutions Architect Associate (2024.01.)
+## 🏆 Awards
 
-🚀 Featured Projects
-프로젝트명 1📱
+### 2024년 재정정보 생성 AI 활용 검색 알고리즘 경진대회(주최:한국재정정보원, 기획재정부) 최우수상 수상
+### 
 
-모바일 앱 개발 프로젝트
-React Native, Node.js, MongoDB
-2024.01. ~ 2024.03.
-사용자 수: 1,000명+
+## 🚀 Projects
 
-프로젝트명 2🌐
-
-웹 서비스 개발
-Next.js, TypeScript, PostgreSQL
-2023.08. ~ 2023.12.
-우수 프로젝트 선정
-
-프로젝트명 3🤖
-
-AI 챗봇 개발
-Python, FastAPI, OpenAI API
-2023.05. ~ 2023.07.
-
-💻 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-🌟 Open Source Contributions
-
-[프로젝트명]: 기여 내용 설명 (2024.02.)
-[라이브러리명]: 버그 수정 및 기능 개선 (2023.11.)
-[도구명]: 문서화 개선 (2023.09.)
-
-📝 Recent Blog Posts
-
-블로그 포스트 제목 1 (2024.03.10)
-블로그 포스트 제목 2 (2024.02.28)
-블로그 포스트 제목 3 (2024.02.15)
-
-🎯 2025 Goals
-
- 새로운 프로그래밍 언어 학습 (Rust)
- 오픈소스 프로젝트 메인테이너 되기
- 기술 블로그 월 2회 이상 포스팅
- 컨퍼런스 발표하기
- AWS 추가 자격증 취득
-
-📫 Contact & Links
-<div align="center">
-이미지 표시
-이미지 표시
-이미지 표시
-이미지 표시
-이미지 표시
-</div>
-
-<div align="center">
-💭 Random Dev Quote
-이미지 표시
-</div>
-<div align="center">
-Thanks for visiting my profile! 😄
-Let's connect and build something amazing together!
-</div>
+## 📫 Contact
