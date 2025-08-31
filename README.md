@@ -1,61 +1,106 @@
 <div align="center">
+  <h1>👋 Hello, I'm Donggeon Yoon (윤동건)</h1>
+  <p>AI Engineer · Computer Science Student @ Kangwon National University</p>
+  
+  <!-- 기술 스택 배지 -->
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  </p>
+</div>
+
+---
+
 ## ⚙️ Technologies and Skills
 
 ### 💡 Main Languages & Skills
+- Python (AI/ML, Backend)
+- Java (Spring Boot)
+- JavaScript (Node.js)
+- C/C++
 
 ### 🖋️ All Languages
+- Python, Java, C/C++, JavaScript, SQL  
+- HTML/CSS, Flutter (Dart)
 
-###🛠️ Other Skills & Tools
+### 🛠️ Other Skills & Tools
+- PyTorch, TensorFlow, Hugging Face, scikit-learn  
+- Docker, Kubernetes, AWS, Cloudflare  
+- Git/GitHub, Firebase, MySQL, MongoDB  
 
 ### 🚀 Currently Learning
+- Multimodal LLM (Vision-Language Models)  
+- Federated Learning & Medical AI  
+- Retrieval-Augmented Generation (RAG)  
 
-🪧 GitHub Stats
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&card_width=467" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&card_width=467" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&card_width=467" width="49%" alt="streaks graph" />
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" />
-        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" width="49%" alt="stats graph" />
-    </picture>
-</div>
-<picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" width="100%" />
-</picture>
-Profile Views
-이미지 표시
-</div>
-## 🏢 Work Experience
+---
+
+## 🏢 Experience
 
 ### [KNU CVMIP Lab] Intern
+- 2024.07 ~ Present  
+- Research on Computer Vision & Medical Imaging (LLM, Object Detection)
+- Digital imaging processing & Computer Vision 
 
-- 2024.07. ~ Present
+### 제21회 강원의료기기전시회 [GMES 2025] 전시
+- 2025.09.18 ~ 2025.09.19  
 
-### [FLAME-ARK] 솔루션 개발 실증: 병원 특화 연합학습 기반 멀티모달 파운데이션 모델 구축 및 AI 솔루션 개발
-
-- 2025.03. ~ Present
-
-### [BOIM] Pill Classification & Pill Detection & Pill search 
-
-- 2025.03. ~ Present
+---
 
 ## 🎓 Education
 
-### 강원대학교 컴퓨터공학과
+- 강원대학교 컴퓨터공학과 (2022.03 ~ Present)  
+- [AI융합아카데미] LLM을 활용한 나만의 비서 만들기 (2025.08.24 ~ 2025.08.28)  
+- [우수팀 선정] 2025 하나 소셜벤처 유니버시티 창업 기본 교육 (2025.07.08 ~ 2025.07.31)  
+- 2025 대학연대 창업 네트워크 캠프 (2025.07.07 ~ 2025.07.08)  
+- 도전 K-StarUP 2025 학생 창업유망팀 U300+ 선정  
 
-- 2022.03. ~ Present
-
+---
 
 ## 🏆 Awards
 
-### 2024년 재정정보 생성 AI 활용 검색 알고리즘 경진대회(주최:한국재정정보원, 기획재정부) 최우수상 수상
-### 
+- 🥇 2024 재정정보 생성 AI 검색 알고리즘 경진대회 최우수상  
+  *(주최: 한국재정정보원, 기획재정부, 주관: 데이콘)*  
+- 🥈 2025 강원 창업 탄탄대로 아이디어 경진대회 우수상  
+- 🥈 2025 대학연대 창업 네트워크 캠프 우수상  
+- 🏅 제21회 GMES 2025 연계 창업경진대회 원주의료기기테크노밸리 원장상  
+
+---
 
 ## 🚀 Projects
 
+### [삼성서울병원 주관] FLAME-ARK 솔루션 개발 실증
+- 2025.03 ~ Present  
+- 병원 특화 LLM기반 퇴원 요약지 생성 모델 개발
+
+### [BOIM] Pill Classification & Detection & Search
+- 2025.03 ~ Present  
+- 알약 이미지 기반 인식 및 검색 시스템 개발  
+
+### 재정정보 생성 AI 검색 알고리즘
+- 문서의 구조적 배치를 적용한 문서 파싱 시스템 개발
+  (Yolov10,LLM 기반 파싱 시스템) 
+
+---
+
 ## 📫 Contact
+
+<p>
+  <a href="mailto:ydg06081@kangwon.ac.kr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_ID">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
