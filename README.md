@@ -1,21 +1,16 @@
-<div align="center">
-  <h1>👋 Hello, I'm Donggeon Yoon (윤동건)</h1>
-  <p>AI Engineer · Computer Science Student @ Kangwon National University</p>
-  
-  <!-- 기술 스택 배지 -->
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  </p>
-</div>
+# 👋 Hello, I'm Donggeon Yoon (윤동건)
+AI Engineer · Computer Science Student @ Kangwon National University
+
+<!-- 기술 스택 배지 -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -47,7 +42,7 @@
 
 ### [KNU CVMIP Lab] Intern
 - 2024.07 ~ Present  
-- Research on Computer Vision & Medical Imaging (LLM, Object Detection)
+- Research on Computer Vision & Medical Imaging (LLM, Object Detection)  
 - Digital imaging processing & Computer Vision 
 
 ### 제21회 강원의료기기전시회 [GMES 2025] 전시
@@ -79,28 +74,20 @@
 
 ### [삼성서울병원 주관] FLAME-ARK 솔루션 개발 실증
 - 2025.03 ~ Present  
-- 병원 특화 LLM기반 퇴원 요약지 생성 모델 개발
+- 병원 특화 LLM 기반 퇴원 요약지 생성 모델 개발  
 
 ### [BOIM] Pill Classification & Detection & Search
 - 2025.03 ~ Present  
 - 알약 이미지 기반 인식 및 검색 시스템 개발  
 
 ### 재정정보 생성 AI 검색 알고리즘
-- 문서의 구조적 배치를 적용한 문서 파싱 시스템 개발
-  (Yolov10,LLM 기반 파싱 시스템) 
+- 문서의 구조적 배치를 적용한 문서 파싱 시스템 개발  
+  (YOLOv10, LLM 기반 파싱 시스템)  
 
 ---
 
 ## 📫 Contact
 
-<p>
-  <a href="mailto:ydg06081@kangwon.ac.kr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_ID">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_ID">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydg06081@kangwon.ac.kr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_ID)
