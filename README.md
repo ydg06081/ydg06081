@@ -18,23 +18,23 @@ AI Engineer · Computer Science Student @ Kangwon National University
 
 ### 💡 Main Languages & Skills
 - Python (AI/ML, Backend)
-- Java (Spring Boot)
 - JavaScript (Node.js)
 - C/C++
 
 ### 🖋️ All Languages
 - Python, Java, C/C++, JavaScript, SQL  
-- HTML/CSS, Flutter (Dart)
+- HTML/CSS
 
 ### 🛠️ Other Skills & Tools
-- PyTorch, TensorFlow, Hugging Face, scikit-learn  
-- Docker, Kubernetes, AWS, Cloudflare  
-- Git/GitHub, Firebase, MySQL, MongoDB  
+- PyTorch, TensorFlow, Hugging Face, scikit-learn, matplotlib...  
+- Docker, Cloudflare 
+- Git/GitHub 
 
 ### 🚀 Currently Learning
 - Multimodal LLM (Vision-Language Models)  
-- Federated Learning & Medical AI  
-- Retrieval-Augmented Generation (RAG)  
+- Object Detection
+- Pill identification
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
@@ -78,7 +78,8 @@ AI Engineer · Computer Science Student @ Kangwon National University
 
 ### [BOIM] Pill Classification & Detection & Search
 - 2025.03 ~ Present  
-- 알약 이미지 기반 인식 및 검색 시스템 개발  
+- 알약 이미지 기반 인식 및 검색 시스템 개발
+- Object Detection을 이용한 알약계수기 개발  
 
 ### 재정정보 생성 AI 검색 알고리즘
 - 문서의 구조적 배치를 적용한 문서 파싱 시스템 개발  
@@ -89,5 +90,4 @@ AI Engineer · Computer Science Student @ Kangwon National University
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydg06081@kangwon.ac.kr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_ID)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_ID)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ydg06081)
