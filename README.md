@@ -11,7 +11,7 @@ AI Engineer · Computer Science Student @ Kangwon National University
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Faiss](https://img.shields.io/badge/Faiss-005571?style=for-the-badge&logo=database&logoColor=white)
-![Pyserini](https://img.shields.io/badge/Pyserini-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Pyserini](https://img.shields.io/badge/Pyserini-005571?style=for-the-badge&logo=database&logoColor=white)
 
 
 ---
