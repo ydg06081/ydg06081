@@ -42,8 +42,8 @@ AI Engineer · Computer Science Student @ Kangwon National University
 
 ### [KNU CVMIP Lab] Intern
 - 2024.07 ~ Present  
-- Research on Computer Vision & Medical Imaging (LLM, Object Detection)  
-- Digital imaging processing & Computer Vision 
+- Research on Computer Vision & Medical Image processing (LLM, Object Detection)  
+- Digital Image processing & Computer Vision 과목 조교
 
 ### 제21회 강원의료기기전시회 [GMES 2025] 전시
 - 2025.09.18 ~ 2025.09.19  
