@@ -22,7 +22,8 @@ AI Engineer · Computer Science Student @ Kangwon National University
 - Git/GitHub 
 
 ### 🚀 Currently Learning
-- Multimodal LLM (Vision-Language Models)  
+- Multimodal LLM (Vision-Language Models)
+- Medical LLM 
 - Object Detection
 - Pill identification
 - Retrieval-Augmented Generation (RAG)
