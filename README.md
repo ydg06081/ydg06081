@@ -77,7 +77,7 @@ AI Engineer · Computer Science Student @ Kangwon National University
 - 알약 이미지 기반 인식 및 검색 시스템 개발
 - Object Detection을 이용한 알약계수기 개발  
 
-### 재정정보 생성 AI 검색 알고리즘
+### [재정정보 생성 AI 검색 알고리즘](https://github.com/ydg06081/OCR_YOLO_Parsing_Dacon)
 - 문서의 구조적 배치를 적용한 문서 파싱 시스템 개발  
   (YOLOv10, LLM 기반 파싱 시스템)  
 
