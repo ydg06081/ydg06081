@@ -41,7 +41,7 @@ AI Engineer · Computer Science Student @ Kangwon National University
 - Research on Computer Vision & Medical Image processing (LLM, Object Detection)  
 - Digital Image processing & Computer Vision 과목 조교
 
-### 제21회 강원의료기기전시회 [GMES 2025] 전시
+### 제21회 강원의료기기전시회 [GMES 2025] 전시 
 - 2025.09.18 ~ 2025.09.19  
 
 ---
@@ -61,7 +61,8 @@ AI Engineer · Computer Science Student @ Kangwon National University
 - 🥇 2024 재정정보 생성 AI 검색 알고리즘 경진대회 최우수상  
   *(주최: 한국재정정보원, 기획재정부, 주관: 데이콘)*  
 - 🥈 2025 강원 창업 탄탄대로 아이디어 경진대회 우수상  
-- 🥈 2025 대학연대 창업 네트워크 캠프 우수상  
+- 🥈 2025 대학연대 창업 네트워크 캠프 우수상
+  *(주최: 서울대 대학연대 지역인재양성 사업단)*  
 - 🏅 제21회 GMES 2025 연계 창업경진대회 원주의료기기테크노밸리 원장상  
 
 ---
@@ -78,6 +79,7 @@ AI Engineer · Computer Science Student @ Kangwon National University
 - Object Detection을 이용한 알약계수기 개발  
 
 ### [재정정보 생성 AI 검색 알고리즘](https://github.com/ydg06081/OCR_YOLO_Parsing_Dacon)
+- 2024.07.01 ~ 2024.08.10
 - 문서의 구조적 배치를 적용한 문서 파싱 시스템 개발  
   (YOLOv10, LLM 기반 파싱 시스템)  
 
