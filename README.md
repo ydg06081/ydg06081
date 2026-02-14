@@ -17,8 +17,8 @@ AI Engineer · Computer Science Student @ Kangwon National University
 ---
 
 ### 🖋️ All Languages
-- Python, Java, C/C++, JavaScript, SQL  
-- HTML/CSS
+- Python, Java, C/C++  
+- HTML/CSS,JavaScript
 
 ### 🛠️ Other Skills & Tools
 - PyTorch, TensorFlow, Hugging Face, scikit-learn, matplotlib...  
@@ -41,7 +41,7 @@ AI Engineer · Computer Science Student @ Kangwon National University
 - Research on Computer Vision & Medical Image processing (LLM, Object Detection)  
 - Digital Image processing & Computer Vision 과목 조교
 
-### 제21회 강원의료기기전시회 [GMES 2025] 전시 
+### 제21회 강원의료기기전시회 [GMES 2025] 
 - 2025.09.18 ~ 2025.09.19  
 
 ---
@@ -52,7 +52,7 @@ AI Engineer · Computer Science Student @ Kangwon National University
 - [AI융합아카데미] LLM을 활용한 나만의 비서 만들기 (2025.08.24 ~ 2025.08.28)  
 - [우수팀 선정] 2025 하나 소셜벤처 유니버시티 창업 기본 교육 (2025.07.08 ~ 2025.07.31)  
 - 2025 대학연대 창업 네트워크 캠프 (2025.07.07 ~ 2025.07.08)
-- CITI 이수수
+- CITI 이수
 
 ---
 
