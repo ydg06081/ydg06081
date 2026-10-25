@@ -1,118 +1,173 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:F38020&height=200&section=header&text=Donggeon%20Yoon&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-# Hello, I'm Donggeon Yoon (윤동건)
-AI Engineer · M.S. Student @ Kangwon National University · CVMIP Lab
+<div align="center">
 
-<!-- 기술 스택 배지 -->
-## Main Languages & Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Faiss](https://img.shields.io/badge/Faiss-005571?style=for-the-badge&logo=database&logoColor=white)
-![Pyserini](https://img.shields.io/badge/Pyserini-005571?style=for-the-badge&logo=database&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,60:0b1a20,100:0f3b3a&height=180&text=Dong%20Geon%20Yun&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Medical%20AI%20Researcher%20%C2%B7%20Engineer&descSize=18&descAlignY=64&animation=fadeIn" width="100%" alt="Dong Geon Yun" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1400&color=2DD4BF&center=true&vCenter=true&width=640&height=40&lines=Building+medical+AI+you+can+trust;Vision-Language+Models+%C2%B7+Medical+LLMs;Say+what+you+see.+Abstain+when+you+can%27t." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1400&color=0F766E&center=true&vCenter=true&width=640&height=40&lines=Building+medical+AI+you+can+trust;Vision-Language+Models+%C2%B7+Medical+LLMs;Say+what+you+see.+Abstain+when+you+can%27t." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1400&color=0F766E&center=true&vCenter=true&width=640&height=40&lines=Building+medical+AI+you+can+trust;Vision-Language+Models+%C2%B7+Medical+LLMs;Say+what+you+see.+Abstain+when+you+can%27t." alt="Building medical AI you can trust" />
+</picture>
 
----
+<p>
+  <a href="https://visual.kangwon.ac.kr/"><img src="https://img.shields.io/badge/CVMIP_LAB-000000?style=for-the-badge" alt="CVMIP LAB" /></a>
+  <a href="https://www.boimlab.com/"><img src="https://img.shields.io/badge/BOIM_LABS-000000?style=for-the-badge" alt="BOIM LABS" /></a>
+  <a href="https://www.axclep.com/"><img src="https://img.shields.io/badge/AXCLEP-000000?style=for-the-badge" alt="AXCLEP" /></a>
+  <a href="https://www.linkedin.com/in/dong-geon-yun-69a157439"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge" alt="LINKEDIN" /></a>
+  <a href="mailto:ydg06081@kangwon.ac.kr"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge" alt="EMAIL" /></a>
+</p>
 
-### All Languages
-- Python, Java, C/C++  
-- HTML/CSS, JavaScript
+</div>
 
-### Other Skills & Tools
-- PyTorch, TensorFlow, Hugging Face, scikit-learn, matplotlib...  
-- Docker, Cloudflare 
-- Git/GitHub 
+<br />
 
-### Currently Learning
-- Multimodal LLM (Vision-Language Models)
-- Medical LLM 
-- Object Detection
-- Pill identification
-- Retrieval-Augmented Generation (RAG)
+## 01 · About
 
----
+```yaml
+name: Dong Geon Yun (윤동건)
+role: M.S. Student · CVMIP Lab, Kangwon National University
+focus: [Vision-Language Models, Medical LLMs, Reliable AI]
+building: [약보임, Axclep]
+```
 
-## Experience
+## 02 · Research
 
-### CVMIP Lab · Kangwon National University
-- 석사과정 연구원 · 2024.07 연구실 합류
-- Computer Vision, Vision-Language Models, Medical LLM 연구
-- Digital Image Processing & Computer Vision 과목 조교 경험
+| Area | Focus |
+| --- | --- |
+| **Vision-Language Models** | Faithful visual grounding and interpretability of VLM internals |
+| **Medical LLMs** | Clinical text generation and LLM-as-a-Judge evaluation |
+| **Reliable AI** | Selective prediction: answer when the evidence is visible, abstain when it is not |
+| **Medical Vision** | Pill detection, recognition, and retrieval |
 
-### BOIM Labs / Axclep
-- 의료 AI 서비스 개발 및 창업 프로젝트 참여
-- 개인용 알약 식별 서비스와 의료진용 약물 확인 시스템 개발
+## 03 · Projects
 
-### GMES 2025
-- 제21회 강원의료기기전시회 참가 · 2025.09.18 ~ 2025.09.19
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+#### 약보임 &nbsp;<sub>BOIM Labs</sub>
 
-## Education
+Personal medication manager on Google Play. Snap a pill, get narrowed-down candidates, and confirm before it enters your pillbox.
 
-- **강원대학교 일반대학원 컴퓨터공학과** · 석사과정 재학
-- **강원대학교 컴퓨터공학과** · 학부 2022.03 입학
+`Pill Recognition` `Object Detection` `Image Retrieval`
+
+[Google Play](https://play.google.com/store/apps/details?id=boimlab.pill) · [Website](https://www.boimlab.com/)
+
+</td>
+<td width="50%" valign="top">
+
+#### Axclep &nbsp;<sub>Medication Safety AI</sub>
+
+A medication-check console for pharmacists, physicians, and nurses, combining pill-image recognition with prescription and pill-pouch reading.
+
+`Pill Recognition` `Document OCR` `Clinical Workflow`
+
+[Website](https://www.axclep.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Medical LLM-as-a-Judge &nbsp;<sub>Research</sub>
+
+Open-weight LLMs that grade clinical discharge summaries, benchmarked against physician ratings, with prompt refinement and fine-tuning.
+
+`LLM-as-a-Judge` `Clinical NLP` `SFT · DPO`
+
+</td>
+<td width="50%" valign="top">
+
+#### FLAME-ARK &nbsp;<sub>Samsung Medical Center · 2025.03 – Now</sub>
+
+Development and validation of a hospital-specific LLM that drafts discharge summaries.
+
+`Medical LLM` `Clinical Text Generation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Public-Finance AI Search &nbsp;<sub>DACON 2024 · 최우수상</sub>
+
+Layout-aware document parsing with YOLOv10 and an LLM, powering generative search over public-finance reports.
+
+`YOLOv10` `Document AI` `RAG`
+
+[Repository](https://github.com/ydg06081/OCR_YOLO_Parsing_Dacon)
+
+</td>
+<td width="50%" valign="top">
+
+#### Side Builds
+
+- [`llava-q`](https://github.com/ydg06081/llava-q) · a mini LLaVA (CLIP + Qwen2.5) built to see how images enter an LLM
+- [`custom_arxiv_search`](https://github.com/ydg06081/custom_arxiv_search) · arXiv search with Gemini topic expansion
+- [`dirsort`](https://github.com/ydg06081/dirsort) · a CLI that tidies folders by file type
+
+</td>
+</tr>
+</table>
+
+## 04 · Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,docker,cloudflare,linux,git,latex,java,cpp,js&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn, Docker, Cloudflare, Linux, Git, LaTeX, Java, C++, JavaScript" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/vLLM-000000?style=flat-square" alt="vLLM" />
+<img src="https://img.shields.io/badge/Weights_%26_Biases-000000?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Weights & Biases" />
+<img src="https://img.shields.io/badge/FAISS-000000?style=flat-square" alt="FAISS" />
+<img src="https://img.shields.io/badge/Pyserini-000000?style=flat-square" alt="Pyserini" />
+<img src="https://img.shields.io/badge/YOLO-000000?style=flat-square" alt="YOLO" />
+</p>
+
+## 05 · Awards
+
+| Year | Award | Competition |
+| :---: | --- | --- |
+| 2026 | **우수상** | 실험실 특화형 창업선도대학 대학원생 창업동아리 창업경진대회 |
+| 2026 | **한국청년기업가정신재단 이사장상** | 제3회 대한민국 학생창업주간 |
+| 2025 | **특별상** · 전자신문 대표이사상 | 강원대학교 창업 AI+X 해커톤 GIANT 2025 |
+| 2025 | **최우수상** · 강원정보문화산업진흥원장상 | 글로벌 AI인재양성 챌린지 (해커톤) |
+| 2025 | **장려상** | 춘천시 데이터 활용 해커톤 |
+| 2025 | **원주의료기기테크노밸리 원장상** | 제21회 GMES 2025 연계 창업경진대회 |
+| 2025 | **우수상** · KNU창업혁신원장상 | 강원 창업 탄탄대로 아이디어 경진대회 |
+| 2025 | **우수상** | 대학연대 창업 네트워크 캠프 |
+| 2024 | **최우수상** · 한국재정정보원장상 | 재정정보 생성 AI 검색 알고리즘 경진대회 (DACON) |
+
+## 06 · Background
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Education**
+
+- **M.S. Student** · Computer Engineering<br /><sub>Kangwon National University · CVMIP Lab</sub>
+- **B.S.** · Computer Engineering<br /><sub>Kangwon National University</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Experience**
+
+- **CVMIP Lab** · Intern → M.S. Student<br /><sub>2024.07 – Now</sub>
+- **Teaching Assistant**<br /><sub>Digital Image Processing & Computer Vision</sub>
+- **GMES 2025**<br /><sub>제21회 강원의료기기전시회 · 2025.09.18 – 09.19</sub>
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary>Additional Training</summary>
+<summary><b>Training</b></summary>
 
-- [AI융합아카데미] LLM을 활용한 나만의 비서 만들기 · 2025.08.24 ~ 2025.08.28
-- 2025 하나 소셜벤처 유니버시티 창업 기본 교육 · 우수팀 선정 · 2025.07.08 ~ 2025.07.31
-- 2025 대학연대 창업 네트워크 캠프 · 2025.07.07 ~ 2025.07.08
+- [AI융합아카데미] LLM을 활용한 나만의 비서 만들기 · 2025.08.24 – 08.28
+- 2025 하나 소셜벤처 유니버시티 창업 기본 교육 · 우수팀 선정 · 2025.07.08 – 07.31
+- 2025 대학연대 창업 네트워크 캠프 · 2025.07.07 – 07.08
 - CITI 이수
 
 </details>
-
----
-
-## Awards
-
-### 2026
-- **우수상** · 실험실 특화형 창업선도대학 대학원생 창업동아리 창업경진대회 · 2026.09
-- **한국청년기업가정신재단 이사장상** · 제3회 대한민국 학생창업주간 · 2026.07
-
-### 2025
-- **특별상 (전자신문 대표이사상)** · 강원대학교 창업 AI+X 해커톤 GIANT 2025 · 2025.09.23
-- **최우수상 (강원정보문화산업진흥원장상)** · 글로벌 AI인재양성 챌린지(해커톤) · 2025.09.11
-- **장려상** · 춘천시 데이터 활용 해커톤 · 2025.09.06
-- **원주의료기기테크노밸리 원장상** · 제21회 GMES 2025 연계 창업경진대회
-- **우수상 (KNU창업혁신원장상)** · 강원 창업 탄탄대로 아이디어 경진대회
-- **우수상** · 대학연대 창업 네트워크 캠프
-
-### 2024
-- **최우수상 (한국재정정보원장상)** · 재정정보 생성 AI 검색 알고리즘 경진대회
-  - 한국재정정보원·기획재정부 주최, 데이콘 주관
-
----
-
-## Projects
-
-### 약보임 · BOIM Labs
-- 알약 이미지 기반 식별·검색 서비스 및 객체 탐지 기반 알약 계수 기능 개발
-- Google Play 출시 · 2026.05
-
-### Axclep · 의료진용 약물 확인 시스템
-- 약사·의사·간호사의 약물 확인 업무를 지원하는 시스템 개발
-- 알약 이미지 인식 및 처방전·약봉투 정보 추출 기능 개발
-
-### Medical LLM-as-a-Judge
-- 퇴원 요약지의 임상적 품질을 평가하는 LLM 연구
-- 의사 평가와의 일치도 분석 및 평가 프롬프트 개선
-
-### FLAME-ARK 솔루션 개발 실증 · 삼성서울병원 주관
-- 2025.03 ~ Present
-- 병원 특화 LLM 기반 퇴원 요약지 생성 모델 개발
-
-### [재정정보 생성 AI 검색 알고리즘](https://github.com/ydg06081/OCR_YOLO_Parsing_Dacon)
-- 2024.07.01 ~ 2024.08.10
-- 문서 레이아웃을 반영한 YOLOv10·LLM 기반 문서 파싱 시스템 개발
-
----
-
-## Contact
-
-[ydg06081@kangwon.ac.kr](mailto:ydg06081@kangwon.ac.kr)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ydg06081)
