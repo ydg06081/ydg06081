@@ -10,8 +10,6 @@
 
 <p>
   <a href="https://visual.kangwon.ac.kr/"><img src="https://img.shields.io/badge/CVMIP_LAB-000000?style=for-the-badge" alt="CVMIP LAB" /></a>
-  <a href="https://www.boimlab.com/"><img src="https://img.shields.io/badge/BOIM_LABS-000000?style=for-the-badge" alt="BOIM LABS" /></a>
-  <a href="https://www.axclep.com/"><img src="https://img.shields.io/badge/AXCLEP-000000?style=for-the-badge" alt="AXCLEP" /></a>
   <a href="https://www.linkedin.com/in/dong-geon-yun-69a157439"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge" alt="LINKEDIN" /></a>
   <a href="mailto:ydg06081@kangwon.ac.kr"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge" alt="EMAIL" /></a>
 </p>
@@ -50,7 +48,7 @@ Personal medication manager on Google Play. Snap a pill, get narrowed-down candi
 
 `Pill Recognition` `Object Detection` `Image Retrieval`
 
-[Google Play](https://play.google.com/store/apps/details?id=boimlab.pill) · [Website](https://www.boimlab.com/)
+[Google Play](https://play.google.com/store/apps/details?id=boimlab.pill)
 
 </td>
 <td width="50%" valign="top">
@@ -60,8 +58,6 @@ Personal medication manager on Google Play. Snap a pill, get narrowed-down candi
 A medication-check console for pharmacists, physicians, and nurses, combining pill-image recognition with prescription and pill-pouch reading.
 
 `Pill Recognition` `Document OCR` `Clinical Workflow`
-
-[Website](https://www.axclep.com/)
 
 </td>
 </tr>
